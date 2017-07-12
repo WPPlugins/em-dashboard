@@ -1,0 +1,250 @@
+# Copyright (C) 2016 EM Dashboard
+# This file is distributed under the same license as the EM Dashboard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EM Dashboard 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/em-dashboard\n"
+"POT-Creation-Date: 2016-01-06 04:02:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/classes/init.class.php:376
+msgid "Easy mode"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:63 inc/classes/optionspage.class.php:322
+msgid "General Settings"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:75
+msgid "EM Dashboard Styles"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:83
+msgid "Load the EM Dashboard theme."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:84
+msgid "Experimental flat soft WP theme (this also removes the color picker)"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:92
+msgid "EM Dashboard Fonts"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:100
+msgid "Load the Merriweather Google Font that goes with the EM Dashboard theme."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:101
+msgid "This option only has effect if the EM Dashboard Styles are also active"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:109
+msgid "Default Color Scheme"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:117
+msgid "Set the default theme for newly registered users."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:118
+msgid "This does not affect currently registered users."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:126
+msgid "Enable Color Picker"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:134
+msgid "When this option is on, the color picker is visible in the user profile page."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:136
+msgid "This option is set to on if 'Enable EM Dashboard Styles' is on. This has no effect on the admin"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:137
+msgid "This option is set to on if 'Enable EM Dashboard Styles' is on. This has no effect on the super-admin"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:143
+msgid "Enable Easy Mode Button"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:151
+msgid "Enable the easy mode button."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:153
+msgid "The button on the bottom left."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:154
+msgid "The button on the bottom left. This doesn't have effect in the network admin screen"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:160
+msgid "Default Easy Mode Setting"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:168
+msgid "Turn the button on the bottom left on or off for new users."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:169
+msgid "This option only has effect on users who haven't touched it yet"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:177
+msgid "Force Easy Mode"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:185
+msgid "Force Easy Mode for everyone except for the set Capability below."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:186
+msgid "This option also removes the button on the bottom left except for the minimum capability."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:194
+msgid "Minimum Non-Forced Capability"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:202
+msgid "The minimum role that doesn't get Easy Mode forced and sees the Easy Mode Button at all times regardless of other settings."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:203
+msgid "Although very unlikely, if you get stuck in Easy Mode, please see the plugin page's 'Other Nodes'."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:220 inc/classes/optionspage.class.php:287
+msgid "EM Dashboard Settings"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:305
+msgid "Your settings have been saved"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:325
+msgid "Easy Mode Settings"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:328
+msgid "More coming soon!"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:369
+msgid "The settings on this page affect every user and site on your network."
+msgstr ""
+
+#: inc/classes/optionspage.class.php:371
+msgid "The settings on this page affect every user on your website"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Default"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Light"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Blue"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Midnight"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Sunrise"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Ectoplasm"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Ocean"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:483
+msgid "Coffee"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:489
+msgid "On"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:490
+msgid "Off"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:506
+msgid "Super Administrator"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:507 inc/classes/optionspage.class.php:515
+msgid "Administrator"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:508 inc/classes/optionspage.class.php:516
+msgid "Editor"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:509 inc/classes/optionspage.class.php:517
+msgid "Author"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:510 inc/classes/optionspage.class.php:518
+msgid "Contributor"
+msgstr ""
+
+#: inc/classes/optionspage.class.php:511 inc/classes/optionspage.class.php:519
+msgid "Subscriber"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans & Merriweather, translate this to 'off'. Do not translate into
+#. your own language.
+
+#: inc/classes/styles.class.php:117
+msgctxt "Open Sans & Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans & Merriweather character subset
+#. specific to your language, translate this to 'greek', 'cyrillic' or
+#. 'vietnamese'. Do not translate into your own language.
+
+#: inc/classes/styles.class.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "EM Dashboard"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/em-dashboard/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Redesigned wp-admin screen with easy mode activation to go back to basics."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sybre Waaijer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://cyberwire.nl/"
+msgstr ""
